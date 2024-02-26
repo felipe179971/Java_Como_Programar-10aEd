@@ -12,6 +12,3 @@ https://m.media-amazon.com/images/I/81jdJ94mSbL._SL1500_.jpg)
 
 - [Java21](https://www.oracle.com/br/java/)
 - [Deitel](https://deitel.com/)
-
-
-![Logo](https://logospng.org/wp-content/uploads/java.png)
