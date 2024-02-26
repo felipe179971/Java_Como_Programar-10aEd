@@ -4,7 +4,6 @@
 package chapter_02;
 
 /**
- * 
  * Author: Felipe da Rocha Ferreira
  * Email: felipe179971@hotmail.com
  * Date: 14/02/2024
